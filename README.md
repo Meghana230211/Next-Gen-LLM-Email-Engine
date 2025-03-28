@@ -23,7 +23,7 @@ The **Next Gen LLM Email Engine** is an advanced AI-powered tool designed to aut
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/SAARANIS/Next-Gen-LLM-Email-Engine.git
+   git clone https://github.com/Meghana230211/Next-Gen-LLM-Email-Engine.git
    cd Next-Gen-LLM-Email-Engine
    ```
 2. Create a virtual environment:
